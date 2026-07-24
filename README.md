@@ -2,6 +2,13 @@
 
 Real-time people counting for elevators using a virtual line — tracks how many people enter and exit by detecting crossings of a defined line in the camera feed, powered by Ultralytics YOLO26.
 
+
+## Demo
+
+
+![Vehicle Speed Detection](assets/vehicle_speed_detection.png)
+
+
 ## Features
 
 - Real-time person detection and tracking using [Ultralytics YOLO26](https://docs.ultralytics.com/)
