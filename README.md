@@ -6,7 +6,7 @@ Real-time people counting for elevators using a virtual line — tracks how many
 ## Demo
 
 
-![Vehicle Speed Detection](assets/vehicle_speed_detection.png)
+![Vehicle Speed Detection](assets/demo.png)
 
 
 ## Features
